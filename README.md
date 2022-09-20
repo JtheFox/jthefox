@@ -21,6 +21,7 @@ Computer Science Graduate at the University of North Carolina at Charlotte
 
 * 🌍  Based in North Carolina
 * 🖥️  See my portfolio [here](http://portfolio.jthefox.com)
+* 🧠  I'm currently learning Qwik
 * ✉️  You can contact me at [jfox0096@gmail.com](mailto:jfox0096@gmail.com)
 
 ### Top Repositories
