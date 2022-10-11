@@ -23,5 +23,3 @@ Computer Science Graduate at the University of North Carolina at Charlotte
 * 🖥️ See my portfolio [here](http://portfolio.jthefox.com)
 * 🧠 I'm currently learning Qwik
 * ✉️ You can contact me at [jfox0096@gmail.com](mailto:jfox0096@gmail.com)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jthefox&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
