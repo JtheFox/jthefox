@@ -20,6 +20,6 @@ Full-Stack Developer
 Computer Science Graduate at the University of North Carolina at Charlotte
 
 * 🌍 Based in North Carolina, United States
-* 🖥️ See my portfolio [here](http://jthefox.com)
+* 🖥️ See my portfolio [here](http://jsonfox.com)
 * 🤝 I'm currently open to collaboration!
 * ✉️ You can contact me at [jfox0096@gmail.com](mailto:jfox0096@gmail.com)
